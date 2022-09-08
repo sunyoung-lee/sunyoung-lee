@@ -17,11 +17,12 @@ Here are some ideas to get you started:
 
 # Sunny 😉
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkim-sunyoung-lee&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsunyoung-lee&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
-![Sunny's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunyoung-lee&show_icons=true&theme=radical)
+![Sunny's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunny&show_icons=true&theme=radical)
 
 ## 💪Skills
+
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
