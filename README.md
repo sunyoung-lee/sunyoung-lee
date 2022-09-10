@@ -49,3 +49,9 @@ Here are some ideas to get you started:
 #### Collaboration Tools
 ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?&style=for-the-badge&logo=Jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D.svg?&style=for-the-badge&logo=Confluence&logoColor=white)
+
+#### Project management methodology
+![Waterfall](https://img.shields.io/badge/Waterfall-0052CC.svg?&style=for-the-badge&logo=Waterfall&logoColor=white)
+![Hybrid](https://img.shields.io/badge/Hybrid-172B4D.svg?&style=for-the-badge&logo=Hybrid&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-172B4D.svg?&style=for-the-badge&logo=Agile&logoColor=white
+
