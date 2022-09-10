@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 #### Data
 ![Kibana](https://img.shields.io/badge/Kibana-005571.svg?&style=for-the-badge&logo=Kibana&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20.svg?&style=for-the-badge&logo=Kafka&logoColor=white)
+![airflow](https://img.shields.io/badge/airflow-#17CEE.svg?&style=for-the-badge&logo=airflow&logoColor=white)
 
 #### DATABASE
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
