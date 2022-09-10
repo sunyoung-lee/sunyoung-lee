@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 ![Kafka](https://img.shields.io/badge/Kafka-231F20.svg?&style=for-the-badge&logo=Kafka&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-17CEE.svg?&style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 
-#### DATABASE
+#### Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 
 #### Devops
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?&style=for-the-badge&logo=Jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D.svg?&style=for-the-badge&logo=Confluence&logoColor=white)
 
-#### Project management methodology
+#### Project Management Methodology
 ![Waterfall](https://img.shields.io/badge/Waterfall-0099E5.svg?&style=for-the-badge&logo=Waterfall&logoColor=white)
 ![Hybrid](https://img.shields.io/badge/Hybrid-FF6550.svg?&style=for-the-badge&logo=Hybrid&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-FF9900.svg?&style=for-the-badge&logo=Agile&logoColor=white)
