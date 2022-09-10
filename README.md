@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 #### Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811.svg?&style=for-the-badge&logo=Power%20BI%20&logoColor=yellow)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811.svg?&style=for-the-badge&logo=PowerBI&logoColor=yellow)
 
 #### Collaboration Tools
 ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?&style=for-the-badge&logo=Jira&logoColor=Blue)
